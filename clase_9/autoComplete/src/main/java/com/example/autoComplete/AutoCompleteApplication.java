@@ -8,7 +8,7 @@ public class AutoCompleteApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AutoCompleteApplication.class, args);
-		System.out.println("STARTED!!!");
+		System.out.println("STARTED!!!!!");
 	}
 
 }
